@@ -1,1 +1,1 @@
-Note that the code for the projects was written under timepressure and is very hard to read. In project 1 we solved the 1D Black-Scholes equation with a finite difference scheme and proved som mathematical properties of the equation and its discretization. In project 2 I numerically solved a transport equation with both a upwind shceme and a Lax-Wendroff scheme. 
+
